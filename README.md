@@ -12,8 +12,8 @@ This project displays US population data by year using the Data USA API.
 https://api.datausa.io/tesseract/data.jsonrecords?cube=acs_yg_total_population_5&measures=Population&drilldowns=Year
 
 ### Screenshot
-![Screenshot](US-Population-Screenshot.png)
-
+![Screenshot](US-Population Screenshot.png)
+US-Population Screenshot.png
 ### How to Run
 - Open `index.html` in a browser
 - Recommended: use VS Code Live Server
