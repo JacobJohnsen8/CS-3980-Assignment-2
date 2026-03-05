@@ -16,4 +16,3 @@ https://api.datausa.io/tesseract/data.jsonrecords?cube=acs_yg_total_population_5
 US-Population Screenshot.png
 ### How to Run
 - Open `index.html` in a browser
-- Recommended: use VS Code Live Server
