@@ -1,4 +1,4 @@
-# CS-3980-Assignment-2
+# CS-3980-Assignment-2 *Created by: Jacob Johnsen*
 ## US Population Table (Data USA API)
 
 This project displays US population data by year using the Data USA API.
